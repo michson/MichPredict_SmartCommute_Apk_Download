@@ -3,10 +3,10 @@ This guide walks you through installing, setting up, and using the Transport Del
 
 🚀 Getting Started
 Installing the App
-Step 1: Allow Installation from Unknown Sources
-Because this app is installed via an APK, Android needs your permission first.
-Open Settings on your phone
-Go to Security
+
+Step 1: Allow Installation from Unknown Sources Because this app is installed via an APK, Android needs your permission first.
+
+Open Settings on your phone, Go to Security
 On newer Android versions: Apps → Special App Access
 Enable Install Unknown Apps or Unknown Sources
 Choose the app you’ll use to install the APK (your browser or file manager)
